@@ -37,7 +37,7 @@ try:
     if len(UPSTREAM_REPO) == 0:
        raise TypeError
 except:
-    UPSTREAM_REPO = "https://github.com/alokhj83077/wzmlmain"
+    UPSTREAM_REPO = "https://github.com/dexter1834/WZML"
 try:
     if len(UPSTREAM_BRANCH) == 0:
        raise TypeError
