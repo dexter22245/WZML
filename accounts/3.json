@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pelagic-force-369716",
+  "private_key_id": "a1698d44d5154ef8ca4cf176a497e560062d5a52",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDZVivazInMwpQw\nA3KyBVytvRK8p2i9Ew+Z/za2B0rSuLKYkva5BEVzvkWPmkoLjvAebMaaYPqA6s87\nlPjZFhLFUa65TOMu75z2CHGKSk58EveWGWBIOEwqf10iUHI037v+m8+6BnQqwRfg\nQnX+HR4fYTfVZ272JbBxkPofIJPLxFaLABws3p7qilN0DuYr9yurcGrtEWLEQBf3\nZ6ScvlidoYEmqlv7d0+9jN6O1B3t68VrVIdTW/HsyI5Y1WiYgaFxALaYgs6bnXa6\nhJ70HsOOMu6gXvFiDOnXLyFJnW4d+SkpfFa4heANdRArd4z5WuHQDEpnku7nJGL5\nI6Bn3VVrAgMBAAECgf9Sutm7p73gXmWas0xHrCVPyMaxup8NCz5ESY/pI463Cki9\nJ06IbeACJS07MS4LjaJ9vd0xFMZ6/ZGPqb+61eqKWVW2aBS9T60xnoHom7xewCHH\nCwk1ydxvftduYx1Krd/yXWPS2Gb9dlVHvQtbIpL1pymqKUJsab5n2GI80viQX8Qu\n0IHY36md0aVeMwdPGxYV2aJRrwl/QkBIXaSaN0wc7/yXKHWrnCP8PVXbKROtXT2x\n9vMb9t8E7F0yw7yPCFgPgiG49lv6e99PmROZsatbu2Sa+uCMCcNuK9HkLXWUyXUg\ng70Tg7K0/BjUf8J8Maa1BVNmipETFner/g65aEECgYEA+IMt2ixHj+dkNBj7be91\ncWptaxynxOHD2CHmSoS8MKemVcyOt3a1K/QXbx/ldjiH/LrxtO7GNX9UUdpLHomo\ni42ruKuA+s5TvFSWEV/1g8mMCxrs2ZwlwtJLH6WRng5O1GORvyLrVxLb102AS84p\nIxnzWrzmtKh4zCPkWJCPBsECgYEA3+KHDoTk3fd6Gp8Cqnb1bFsLe5SjWepUfr1r\nlogPnztzt3zSdaY4wGIsr78AAga/GkYXXoI/OwFxrh0R2mb0Wi59NJ8gzMidRoo3\nOfhA/fSAIv86iJAjByPHSzOhNFp2DzbzmdaMErhXdJADpgwpihgO0C49CRrVV74L\n0lXu8ysCgYBMJlY8jmj3TZ5E4Ira6w9/y27v7X3zNIMAjZK1rurDtfugOuhYi4WE\njG1J3epASZ5R8S7zlF8kMXozAsMV/nSpHqZKFjOVpve9s+WwOUlQMsg49u0w2Uow\n4qOmdOOkHRpGtqQIf7jBm8PFu7fegrPUT7VkTpIbNayeUTk9cj6BgQKBgCYK1+gf\nrMQKyTS80Dcm/4zp64mUOC2PI8xlY2Kwu/bSo1cKXrifBgWqqO00B0xQ2SgdwNrO\nRvA/zpFHX0E9PUgVnjDS2T/y1saltbyj8mc0pJFNzSRnWYxdCAA/RaUfue/b5oi9\nbA/CQxoLXpNYfbZ5YAr/0F87sAS4xkl3UKMBAoGBANTDGIJcr3adDqbgyFq3fbdU\nwRSaut4SSzw+LjhwtF8+vwjGkGt9zGdL2DNId4w3ZQU6ewQGnVSPmjCVHS5Vz7UA\nJyUhGVXmtRBUk+YDHFInVwrrmnTPzCyPwjMN+bk82Z3lg7YvMWLPjaiWLXp7epq9\n+sem15FzHOS75c3u7W3P\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-nlywgg7rz8g6frtjh4sqw6v10f@pelagic-force-369716.iam.gserviceaccount.com",
+  "client_id": "112998011922280426492",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-nlywgg7rz8g6frtjh4sqw6v10f%40pelagic-force-369716.iam.gserviceaccount.com"
+}
